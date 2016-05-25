@@ -6,9 +6,18 @@
     </style>
 
     <style name="headText">
-        <item name="android:textSize">30sp</item>
+        <item name="android:textSize">20sp</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textColor">#003399</item>
     </style>
 
+    <style name="inputText">
+        <item name="android:padding">10sp</item>
+    </style>
+
+    <style name="saveButton">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">20dp</item>
+    </style>
 </resources>
